@@ -1,0 +1,84 @@
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+*.tmp
+
+# IntelliJ / Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+# Hapus tanda # jika ingin mengabaikan seluruh konfigurasi VS Code
+#.vscode/
+
+# Flutter / Dart / Pub
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+.packages
+
+# Flutter generated files
+/generated_plugin_registrant.dart
+
+# Android Gradle cache and local configuration
+/android/.gradle/
+/android/local.properties
+/android/app/build/
+/android/build/
+
+# Android build artifacts
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Windows build artifacts
+/windows/flutter/ephemeral/
+/windows/build/
+
+# Linux build artifacts
+/linux/flutter/ephemeral/
+/linux/build/
+
+# macOS build artifacts
+/macos/Flutter/GeneratedPluginRegistrant.swift
+/macos/Flutter/ephemeral/
+/macos/build/
+
+# iOS generated files
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+/ios/Pods/
+/ios/.symlinks/
+/ios/build/
+
+# Symbolication
+app.*.symbols
+
+# Obfuscation
+app.*.map.json
+
+# Compiled application files
+*.apk
+*.aab
+*.exe
+*.msix
+*.dill
