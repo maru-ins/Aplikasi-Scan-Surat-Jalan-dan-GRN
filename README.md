@@ -100,6 +100,24 @@ build/app/outputs/flutter-apk/app-release.apk
 
 Folder `build/` merupakan hasil kompilasi dan tidak perlu dimasukkan ke Git karena dapat dibuat kembali melalui perintah build.
 
+## Screenshot Aplikasi
+
+### 1. Halaman Utama
+![Halaman Utama](assets/icon/Halamanawal.png)
+
+### 2. Scan Surat Jalan
+![Scan Surat Jalan](assets/icon/Halamanscan.png)
+
+### 3. Scan Surat GRN
+![Scan Surat Jalan](assets/icon/HalamanGrn.png)
+
+### 4. Hasil Scan
+![Hasil Scan Sj/Grn](assets/icon/Hasilscan.png)
+
+### 5. Form Konfirmasi dan Generate PDF
+![Dokumen GRN](assets/icon/FormConfrim.png)
+
+
 ## Catatan
 
 - Pastikan izin kamera diberikan jika menggunakan pemindaian barcode atau OCR dari kamera.
